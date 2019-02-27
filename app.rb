@@ -4,7 +4,6 @@ class App < Sinatra::Base
 
 # in app.rb
 
-class App < Sinatra::Base
   
   get '/' do
     "Hello World"
